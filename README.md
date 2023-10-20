@@ -94,7 +94,8 @@ A new browser window will appear which will look like this
 
 #### Step 16: 
 You can give inputs to your web service and check whether it is working properly or not. If it is working properly, you will get a page like this
- ![16](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4a6cac39-12aa-42c7-8495-77e777e89bcb)
+
+![16](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4a6cac39-12aa-42c7-8495-77e777e89bcb)
 
  
 ### Client-side:
@@ -114,12 +115,14 @@ A new window will appear. Select “Project” under the heading “Specify the 
 
 #### Step 4: 
 A new window will appear, in that carefully choose appropriate web service and click OK.
- ![c4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/b4050bbd-3c0c-4c57-b6cb-27325f140340)
+
+![c4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/b4050bbd-3c0c-4c57-b6cb-27325f140340)
 
  
 #### Step 5:
 The Project file will be filled with the location to the WSDL file of the web service. If you prefer, you can give a package name. Or else click Finish
- ![c5](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/8bb6e72e-8085-42c6-b88e-db310a49605a)
+
+![c5](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/8bb6e72e-8085-42c6-b88e-db310a49605a)
 
 
 
